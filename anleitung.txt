@@ -1,0 +1,3 @@
+CMD Eingabeaufforderung
+1. C:\Users\kmoetz\git\s1 Ordner erstellt
+2. git init in diesem Ordner ausgeführt (repository)
